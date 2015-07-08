@@ -1,5 +1,7 @@
 /* I forget how .... */
+char x
 
-printf("Hello World");
+x=getchar();
+printf(s,%x);
 
 return;
