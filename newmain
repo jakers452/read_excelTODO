@@ -1,0 +1,8 @@
+/* June Akers */
+/* I forget how .... */
+char x
+
+x=getchar();
+printf(s,%x);
+
+return;
